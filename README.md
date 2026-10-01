@@ -1,16 +1,55 @@
-# React + Vite
+# 🌸 SakhiSetu AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Your Voice. Your Language. Your Government Services.
 
-Currently, two official plugins are available:
+> **We don't teach people how to use the internet. We make the internet usable for them.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+SakhiSetu AI is a **voice-first, multilingual AI government-service navigator** that helps women, rural communities, first-time digital users, and people with low digital literacy understand and access government services.
 
-## React Compiler
+Instead of searching through complicated portals and forms, users can simply **speak what they need in their own language**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+SakhiSetu understands the request, identifies the relevant service, asks simple questions, provides basic eligibility guidance, prepares the required documents, explains the process step-by-step, and connects the user to the **official government service**.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🎯 Problem
+
+Government services are increasingly available online.
+
+But **digital availability does not always mean digital accessibility**.
+
+Many users struggle with:
+
+- Finding the right government scheme
+- Understanding eligibility rules
+- Navigating complex portals
+- Understanding government terminology
+- Knowing which documents are required
+- Filling complicated forms
+- Using English-heavy interfaces
+- Knowing what to do next
+
+### The problem is not only access.
+
+### The problem is understanding.
+
+---
+
+# 💡 Our Solution
+
+SakhiSetu transforms a complicated government-service journey into a simple conversation.
+
+### Traditional Journey
+
+```text
+Government Website
+        ↓
+Find Scheme
+        ↓
+Understand Eligibility
+        ↓
+Find Documents
+        ↓
+Understand Process
+        ↓
+Apply
